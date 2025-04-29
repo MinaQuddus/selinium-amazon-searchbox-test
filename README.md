@@ -1,6 +1,6 @@
-## Asslamulaikum👋
+# Asslamulaikum👋
 
-# welcome to my project!!
+## welcome to my project!!
 
 📦 Amazon Search Box Testing
 This project demonstrates both manual testing and automation testing of the Amazon search box using Selenium WebDriver.
