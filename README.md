@@ -1,6 +1,6 @@
-##Asslamulaikum👋
+## Asslamulaikum👋
 
-#welcome to my project!!
+# welcome to my project!!
 
 📦 Amazon Search Box Testing
 This project demonstrates both manual testing and automation testing of the Amazon search box using Selenium WebDriver.
@@ -43,7 +43,7 @@ Automates text input, search click, and result validation
 
 Handles waits and dynamic elements (autocomplete dropdown)
 
-Can run cross-browser (if configured)
+Can run cross-browser
 
 🧾 Sample Test Flow:
 Open Amazon homepage
